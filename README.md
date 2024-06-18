@@ -1,8 +1,5 @@
 # EduLoyalty-Reward-Based-Coupon-System
 
-EduLoyalty - Full Stack Development Project
-
-Description:
 • Designed and developed a comprehensive reward system for student activities using React for the front-end, Flask for the back-end, and SQL for the database.
 
 • Created an interactive user dashboard that displays points, coupons, and badges earned by students for various activities, such as first-time sign-ups, login activity, and participation in events.
