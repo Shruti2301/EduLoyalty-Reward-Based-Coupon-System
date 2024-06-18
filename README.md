@@ -1,19 +1,30 @@
 # EduLoyalty-Reward-Based-Coupon-System
 
-• Designed and developed a comprehensive reward system for student activities using React for the front-end, Flask for the back-end, and SQL for the database.
+**Overview**
+- EduLoyalty is a comprehensive reward system designed to track and reward student activities. This full stack application is built using React for the front-end, Flask for the back-end, and SQL for the database. The system awards points, coupons, and badges for various student activities, enhancing engagement and motivation.
 
-• Created an interactive user dashboard that displays points, coupons, and badges earned by students for various activities, such as first-time sign-ups, login activity, and participation in events.
 
-• Implemented a responsive and user-friendly interface using React, allowing students to easily track their rewards and achievements.
+[Project Demo](https://youtu.be/6rA2CSTwqnw)
 
-• Developed RESTful APIs with Flask to handle data processing and communication between the front-end and back-end, ensuring efficient and secure data transactions.
 
-• Utilized SQL for robust data storage, enabling efficient data retrieval and management of user information and reward points.
+**Features**
+- Interactive User Dashboard: View and track earned points, coupons, and badges.
+- Responsive UI: A user-friendly and responsive interface developed with React.
+- RESTful API Integration: Efficient data processing and communication using Flask.
+- Secure Data Management: Robust SQL database for data storage and retrieval.
+- Authentication and Authorization: Secure access to the application to protect user data.
+- Efficient Data Handling: Optimized queries for fast and reliable performance.
 
-• Incorporated authentication and authorization mechanisms to ensure secure access to the application, protecting user data and maintaining privacy.
 
-• Optimized database queries for fast and efficient data handling, providing a seamless user experience.
+**Tech Stack**
+- Front-end: React
+- Back-end: Flask
+- Database: SQL
+- API: RESTful API
 
-• Conducted thorough testing and debugging to ensure the application functions smoothly across different devices and browsers.
-
-• Successfully deployed the application, providing a scalable and reliable platform for students to monitor and redeem their rewards.
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/42e11036-a939-4819-ab0e-fe83841c6ae0)
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/0f75ddac-669b-42a6-9bc2-76a4551da6cd)
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/ded8940b-840d-4efb-9e8f-545f5dbf6d65)
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/fe1d546e-a9d1-47e7-9363-79ebc1fca594)
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/25af2989-bf47-4eed-9e05-0502d143eb87)
+![image](https://github.com/ParishaD6/EduLoyalty/assets/161776677/8db48115-d576-48f0-b1f6-d0c16cd1bc73)
